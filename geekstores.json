@@ -96,6 +96,19 @@
         "Bordspellen"
       ]
     },
-
+    {
+      "id": 8,
+      "name": "4Geeks",
+      "city": "Leidschendam",
+      "address": "Eglantier 1 G",
+      "latitude": 52.09055616594989,
+      "longitude": 4.383395994467866,
+      "category": [
+        "Verzamelkaarten",
+        "Games",
+        "LEGO",
+        "Bordspellen"
+      ]
+    }
   ]
 }
