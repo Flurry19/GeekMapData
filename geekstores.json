@@ -39,6 +39,20 @@
         "TTRPG's",
         "Figuren"
       ]
+    },
+    {
+      "id": 4,
+      "name": "Intertoys Delft",
+      "city": "Delft",
+      "address": "Paradijspoort 14",
+      "latitude": 52.0109844579973,
+      "longitude": 4.362764026825304,
+      "category": [
+        "Verzamelkaarten",
+        "Games",
+        "LEGO",
+        "Bordspellen"
+      ]
     }
   ]
 }
