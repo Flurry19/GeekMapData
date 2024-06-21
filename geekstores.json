@@ -67,6 +67,49 @@
         "LEGO",
         "Bordspellen"
       ]
+    },
+    {
+      "id": 6,
+      "name": "Intertoys Wateringen",
+      "city": "Wateringen",
+      "address": "Plein 30",
+      "latitude": 52.02682284340644,
+      "longitude": 4.27298595376588,
+      "category": [
+        "Verzamelkaarten",
+        "Games",
+        "LEGO",
+        "Bordspellen"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Intertoys Berkel en Rodenrijs",
+      "city": "Berkel en Rodenrijs",
+      "address": "Westerwater 28",
+      "latitude": 51.99705479486067,
+      "longitude": 4.475815976512525,
+      "category": [
+        "Verzamelkaarten",
+        "Games",
+        "LEGO",
+        "Bordspellen"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "4Geeks",
+      "city": "Leidschendam",
+      "address": "Eglantier 1 G",
+      "latitude": 52.09055616594989,
+      "longitude": 4.383395994467866,
+      "category": [
+        "Verzamelkaarten",
+        "Games",
+        "LEGO",
+        "Bordspellen"
+      ]
     }
   ]
 }
+
