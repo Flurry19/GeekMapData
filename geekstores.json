@@ -53,6 +53,20 @@
         "LEGO",
         "Bordspellen"
       ]
+    },
+    {
+      "id": 5,
+      "name": "Intertoys Rijswijk",
+      "city": "Rijswijk",
+      "address": "Prins Willem Alexander Promenade 59",
+      "latitude": 52.04084144881676,
+      "longitude": 4.3161186803378415,
+      "category": [
+        "Verzamelkaarten",
+        "Games",
+        "LEGO",
+        "Bordspellen"
+      ]
     }
   ]
 }
