@@ -1,6 +1,7 @@
 {
   "data": [
     {
+      "id": 1,
       "name": "Intertoys Pijnacker",
       "city": "Pijnacker",
       "address": "Emmapark 106",
@@ -14,6 +15,7 @@
       ]
     },
     {
+      "id": 2,
       "name": "Daans Shop",
       "city": "Berkel en Rodenrijs",
       "address": "Kerkstraat 13",
@@ -26,6 +28,7 @@
       ]
     },
     {
+      "id": 3,
       "name": "Nerds Like Us!",
       "city": "Delft",
       "address": "Martinus Nijhofflaan 10",
