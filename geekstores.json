@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "name": "Intertoys Pijnacker",
+      "city": "Pijnacker",
+      "address": "Emmapark 106",
+      "latitude": 52.01815788811212,
+      "longitude": 4.431163930194324,
+      "category": [
+        "Verzamelkaarten",
+        "Games",
+        "LEGO",
+        "Bordspellen"
+      ]
+    },
+    {
+      "name": "Daans Shop",
+      "city": "Berkel en Rodenrijs",
+      "address": "Kerkstraat 13",
+      "latitude": 51.994118958329594,
+      "longitude": 4.4775834163009955,
+      "category": [
+        "Trading cards",
+        "TTRPG's",
+        "Board Games"
+      ]
+    },
+    {
+      "name": "Nerds Like Us!",
+      "city": "Delft",
+      "address": "Martinus Nijhofflaan 10",
+      "latitude": 51.99737260053708,
+      "longitude": 4.353143024264067,
+      "category": [
+        "Verzamelkaarten",
+        "TTRPG's",
+        "Figuren"
+      ]
+    }
+  ]
+}
